@@ -1,0 +1,79 @@
+[
+  {
+    "id": "d-lakeshore",
+    "leadId": "lead-lakeshore",
+    "date": "2026-10-21",
+    "messageType": "wholesale_intro_email",
+    "channel": "email",
+    "subject": "Wholesale pastries for Lakeshore",
+    "firstTouch": true,
+    "body": "Hi Dana,\n\nCongrats on opening your third café in Berkeley. We bake wholesale croissants and pastries every morning in Oakland, 15 minutes from Park Street. I read in Oaklandside that you want more local suppliers. Would a tasting box for the new team help next week?\n\nBest,\nMaria Alvarez\nBrightside Bakery · 2150 Telegraph Ave, Oakland, CA 94612\nNot the right person? Reply \"stop\" and I won't email again."
+  },
+  {
+    "id": "d-harborview",
+    "leadId": "lead-harborview",
+    "date": "2026-10-21",
+    "messageType": "catering_linkedin_dm",
+    "channel": "linkedin",
+    "firstTouch": true,
+    "body": "Hi Priya,\n\nSaw that Harborview is hosting the Uptown Art Walk afterparty on Nov 7. Our catering trays (savory croissants, mini quiches) are built for standing crowds of 150 or more. I also noticed you're hiring for a new events lead. Would it help if I sent a sample menu this week?\n\nBest,\nMaria"
+  },
+  {
+    "id": "d-ironclad",
+    "leadId": "lead-ironclad",
+    "date": "2026-10-21",
+    "messageType": "partner_intro_email",
+    "channel": "email",
+    "subject": "A morning bun for Ironclad members",
+    "firstTouch": true,
+    "body": "Hi Marcus,\n\nCongrats on launching the 6am Rise class series. We make a high-protein morning bun that our wholesale partners sell next to coffee, and it would fit your lounge. Open to a two-week trial?\n\nBest,\nMaria Alvarez\nBrightside Bakery · 2150 Telegraph Ave, Oakland, CA 94612\nNot the right person? Reply \"stop\" and I won't email again."
+  },
+  {
+    "id": "d-fernfield",
+    "leadId": "lead-fernfield",
+    "date": "2026-10-21",
+    "messageType": "wholesale_intro_email",
+    "channel": "email",
+    "subject": "Croissants for the brunch rush",
+    "firstTouch": true,
+    "body": "Hi Sam,\n\nCongrats on the new weekend brunch menu at Fern & Field. Brunch crowds go through pastries fast, and our wholesale croissants arrive by 6:30am. Your 4.6 stars on Google say a lot. Could I drop off a sample tray on Saturday?\n\nBest,\nMaria Alvarez\nBrightside Bakery · 2150 Telegraph Ave, Oakland, CA 94612\nNot the right person? Reply \"stop\" and I won't email again."
+  },
+  {
+    "id": "d-hive",
+    "leadId": "lead-hive",
+    "date": "2026-10-21",
+    "messageType": "partner_intro_email",
+    "channel": "email",
+    "subject": "Breakfast for The Hive",
+    "firstTouch": true,
+    "body": "Hi Jen,\n\nSaw The Hive just announced a monthly member breakfast starting in November. We cater breakfast for offices around Uptown with croissants and fruit, and we could set up a standing order. With 220 members across two floors, that's a lot of breakfasts. Want me to price out the first one?\n\nBest,\nMaria Alvarez\nBrightside Bakery · 2150 Telegraph Ave, Oakland, CA 94612\nNot the right person? Reply \"stop\" and I won't email again."
+  },
+  {
+    "id": "d-pinewood",
+    "leadId": "lead-pinewood",
+    "date": "2026-10-21",
+    "messageType": "catering_linkedin_dm",
+    "channel": "linkedin",
+    "firstTouch": true,
+    "body": "Hi Alex,\n\nCongrats on the move into the new Emeryville office on Hollis Street. I run catering at Brightside Bakery, and a Friday breakfast spread for a team your size is one of our most popular orders. Would a welcome-week tasting be useful?\n\nThanks,\nMaria"
+  },
+  {
+    "id": "d-goldenhour",
+    "leadId": "lead-goldenhour",
+    "date": "2026-10-21",
+    "messageType": "catering_linkedin_dm",
+    "channel": "linkedin",
+    "firstTouch": true,
+    "body": "Hi Rosa,\n\nCongrats on being featured in 7x7's list of Bay Area wedding planners. Our catering team does dessert tables and late-night croissant bars for weddings up to 200 guests. Would a tasting for your next couple help?\n\nBest,\nMaria"
+  },
+  {
+    "id": "d-sunfield",
+    "leadId": "lead-sunfield",
+    "date": "2026-10-21",
+    "messageType": "wholesale_intro_email",
+    "channel": "email",
+    "subject": "Local pastries for Sunfield",
+    "firstTouch": true,
+    "body": "Hi Tom,\n\nI noticed Sunfield just expanded its bakery shelf with a local-makers section. We supply wholesale pastries to three East Bay grocers and deliver six days a week. Could I send over our wholesale price sheet?\n\nBest,\nMaria Alvarez\nBrightside Bakery · 2150 Telegraph Ave, Oakland, CA 94612\nNot the right person? Reply \"stop\" and I won't email again."
+  }
+]

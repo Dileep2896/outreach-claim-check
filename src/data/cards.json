@@ -1,0 +1,66 @@
+[
+  {
+    "leadId": "lead-lakeshore", "company": "Lakeshore Coffee Co.", "contactName": "Dana Reyes",
+    "facts": [
+      { "id": "f-lake-1", "text": "Opened a second location in Alameda on Park Street", "mention": "the new Alameda spot on Park Street", "sourceUrl": "https://instagram.example.com/lakeshorecoffee/p/2026-10-02", "sourceLabel": "Instagram post", "observedAt": "2026-10-02", "confidence": "fact" },
+      { "id": "f-lake-2", "text": "Google rating of 4.7 stars from 310 reviews", "mention": "your 4.7 stars on Google", "sourceUrl": "https://maps.example.com/lakeshore-coffee", "sourceLabel": "Google Business Profile", "observedAt": "2026-10-10", "confidence": "fact" },
+      { "id": "f-lake-3", "text": "Owner Dana Reyes said she wants more local suppliers", "mention": "your push for more local suppliers", "sourceUrl": "https://oaklandside.example.com/2026/08/alameda-coffee-owners", "sourceLabel": "Local news (Oaklandside)", "observedAt": "2026-08-14", "confidence": "fact" },
+      { "id": "f-lake-4", "text": "Likely buying pastries from a central commissary kitchen", "sourceUrl": "https://yelp.example.com/biz/lakeshore-coffee", "sourceLabel": "Yelp menu photos", "observedAt": "2026-09-28", "confidence": "guess" }
+    ]
+  },
+  {
+    "leadId": "lead-harborview", "company": "The Harborview Hotel", "contactName": "Priya Shah",
+    "facts": [
+      { "id": "f-harb-1", "text": "Hosting the Uptown Art Walk afterparty on Nov 7 for about 150 guests", "mention": "the Art Walk afterparty on Nov 7", "sourceUrl": "https://oaklandside.example.com/2026/10/art-walk-afterparty", "sourceLabel": "Local news (Oaklandside)", "observedAt": "2026-10-12", "confidence": "fact" },
+      { "id": "f-harb-2", "text": "Likely hiring a new events lead (job post since removed)", "sourceUrl": "https://linkedin.example.com/jobs/harborview-events", "sourceLabel": "LinkedIn job post (cached)", "observedAt": "2026-10-05", "confidence": "guess" },
+      { "id": "f-harb-3", "text": "Reopened the renovated rooftop terrace", "mention": "the rooftop terrace reopening", "sourceUrl": "https://instagram.example.com/harborviewhotel/p/2026-07-30", "sourceLabel": "Instagram post", "observedAt": "2026-07-30", "confidence": "fact" }
+    ]
+  },
+  {
+    "leadId": "lead-ironclad", "company": "Ironclad Fitness", "contactName": "Marcus Lee",
+    "facts": [
+      { "id": "f-iron-1", "text": "Launched a 6am Rise class series in July", "mention": "the 6am Rise classes", "sourceUrl": "https://instagram.example.com/ironcladfit/p/2026-07-23", "sourceLabel": "Instagram post", "observedAt": "2026-07-23", "confidence": "fact" },
+      { "id": "f-iron-2", "text": "Members lounge serves coffee and grab-and-go snacks", "mention": "the members lounge", "sourceUrl": "https://yelp.example.com/biz/ironclad-fitness", "sourceLabel": "Yelp", "observedAt": "2026-09-30", "confidence": "fact" },
+      { "id": "f-iron-3", "text": "Likely adding a second gym in Berkeley next year", "sourceUrl": "https://ironclad.example.com/careers", "sourceLabel": "Careers page", "observedAt": "2026-10-01", "confidence": "guess" }
+    ]
+  },
+  {
+    "leadId": "lead-fernfield", "company": "Fern & Field Coffee", "contactName": "Sam Ortiz",
+    "facts": [
+      { "id": "f-fern-1", "text": "Fern & Field started a weekend brunch menu on Sept 27", "mention": "the new weekend brunch menu", "sourceUrl": "https://instagram.example.com/fernandfield/p/2026-09-27", "sourceLabel": "Instagram post", "observedAt": "2026-09-27", "confidence": "fact" },
+      { "id": "f-fern-2", "text": "Rated 4.6 stars on Google from 128 reviews", "mention": "your 4.6 stars on Google", "sourceUrl": "https://maps.example.com/fern-and-field", "sourceLabel": "Google Business Profile", "observedAt": "2026-10-14", "confidence": "fact" },
+      { "id": "f-fern-3", "text": "Likely outgrowing their current pastry supplier", "sourceUrl": "https://yelp.example.com/biz/fern-and-field", "sourceLabel": "Yelp reviews", "observedAt": "2026-10-03", "confidence": "guess" }
+    ]
+  },
+  {
+    "leadId": "lead-hive", "company": "The Hive Uptown", "contactName": "Jen Okafor",
+    "facts": [
+      { "id": "f-hive-1", "text": "Announced a monthly member breakfast starting in November", "mention": "the monthly member breakfast", "sourceUrl": "https://hive.example.com/newsletter/2026-10-08", "sourceLabel": "Newsletter (The Hive Weekly)", "observedAt": "2026-10-08", "confidence": "fact" },
+      { "id": "f-hive-2", "text": "Hosts 220 members across two floors", "mention": "your 220-member community", "sourceUrl": "https://hive.example.com/about", "sourceLabel": "Website (About page)", "observedAt": "2026-09-15", "confidence": "fact" },
+      { "id": "f-hive-3", "text": "Likely looking for a weekday coffee partner", "sourceUrl": "https://hive.example.com/perks", "sourceLabel": "Member perks page", "observedAt": "2026-09-15", "confidence": "guess" }
+    ]
+  },
+  {
+    "leadId": "lead-pinewood", "company": "Pinewood Labs", "contactName": "Alex Kim",
+    "facts": [
+      { "id": "f-pine-1", "text": "Moved into a new Emeryville office on Hollis Street in October", "mention": "the move to Hollis Street", "sourceUrl": "https://linkedin.example.com/posts/pinewood-labs-new-office", "sourceLabel": "LinkedIn post", "observedAt": "2026-10-06", "confidence": "fact" },
+      { "id": "f-pine-2", "text": "Team of about 60 people", "mention": "your 60-person team", "sourceUrl": "https://linkedin.example.com/company/pinewood-labs", "sourceLabel": "LinkedIn company page", "observedAt": "2026-10-01", "confidence": "fact" },
+      { "id": "f-pine-3", "text": "Likely planning a holiday party in December", "sourceUrl": "https://pinewood.example.com/careers", "sourceLabel": "Careers page", "observedAt": "2026-10-01", "confidence": "guess" }
+    ]
+  },
+  {
+    "leadId": "lead-goldenhour", "company": "Golden Hour Events", "contactName": "Rosa Lin",
+    "facts": [
+      { "id": "f-gold-1", "text": "Featured in 7x7 Magazine's 2026 list of Bay Area wedding planners", "mention": "the 7x7 feature", "sourceUrl": "https://7x7.example.com/2026/10/bay-area-wedding-planners", "sourceLabel": "Press (7x7)", "observedAt": "2026-10-09", "confidence": "fact" },
+      { "id": "f-gold-2", "text": "Plans about 40 weddings a year", "mention": "your 40 weddings a year", "sourceUrl": "https://goldenhour.example.com/about", "sourceLabel": "Website (About page)", "observedAt": "2026-09-10", "confidence": "fact" }
+    ]
+  },
+  {
+    "leadId": "lead-sunfield", "company": "Sunfield Market", "contactName": "Tom Becker",
+    "facts": [
+      { "id": "f-sun-1", "text": "Expanded the bakery shelf with a local-makers section in October", "mention": "the new local-makers shelf", "sourceUrl": "https://instagram.example.com/sunfieldmarket/p/2026-10-11", "sourceLabel": "Instagram post", "observedAt": "2026-10-11", "confidence": "fact" },
+      { "id": "f-sun-2", "text": "Opened in Rockridge in 2019", "mention": "your Rockridge store", "sourceUrl": "https://sunfield.example.com/about", "sourceLabel": "Website (About page)", "observedAt": "2026-09-01", "confidence": "fact" },
+      { "id": "f-sun-3", "text": "Likely needs Sunday deliveries", "sourceUrl": "https://yelp.example.com/biz/sunfield-market", "sourceLabel": "Yelp reviews", "observedAt": "2026-09-20", "confidence": "guess" }
+    ]
+  }
+]

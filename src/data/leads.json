@@ -1,0 +1,10 @@
+[
+  { "id": "lead-lakeshore", "company": "Lakeshore Coffee Co.", "contactName": "Dana Reyes", "contactRole": "Owner", "segment": "Café", "city": "Alameda", "reason": "Just opened a second location and the owner says she wants more local suppliers." },
+  { "id": "lead-harborview", "company": "The Harborview Hotel", "contactName": "Priya Shah", "contactRole": "Events director", "segment": "Hotel", "city": "Oakland", "reason": "Hosting a 150-guest afterparty on Nov 7 that needs catering." },
+  { "id": "lead-ironclad", "company": "Ironclad Fitness", "contactName": "Marcus Lee", "contactRole": "Co-owner", "segment": "Gym", "city": "Emeryville", "reason": "Members' lounge sells grab-and-go snacks next to coffee." },
+  { "id": "lead-fernfield", "company": "Fern & Field Coffee", "contactName": "Sam Ortiz", "contactRole": "Owner", "segment": "Café", "city": "Oakland", "reason": "New weekend brunch menu means more pastry volume on Saturdays and Sundays." },
+  { "id": "lead-hive", "company": "The Hive Uptown", "contactName": "Jen Okafor", "contactRole": "Community manager", "segment": "Coworking space", "city": "Oakland", "reason": "Starting a monthly member breakfast in November for 220 members." },
+  { "id": "lead-pinewood", "company": "Pinewood Labs", "contactName": "Alex Kim", "contactRole": "Office manager", "segment": "Office", "city": "Emeryville", "reason": "A 60-person team just moved into a new office and is planning welcome events." },
+  { "id": "lead-goldenhour", "company": "Golden Hour Events", "contactName": "Rosa Lin", "contactRole": "Founder", "segment": "Wedding planner", "city": "Berkeley", "reason": "Plans about 40 weddings a year and was just featured by 7x7." },
+  { "id": "lead-sunfield", "company": "Sunfield Market", "contactName": "Tom Becker", "contactRole": "Bakery buyer", "segment": "Grocery", "city": "Oakland", "reason": "Just added a local-makers bakery shelf and is sourcing new vendors." }
+]
