@@ -1,0 +1,16 @@
+node_modules/
+.next/
+.cache/
+.venv/
+coverage/
+.env
+.env.*
+!.env.example
+*.tsbuildinfo
+next-env.d.ts
+.DS_Store
+brag-output/
+test-results/
+playwright-report/
+.playwright-mcp/
+.hallmark/
